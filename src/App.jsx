@@ -1,15 +1,12 @@
 import React from "react";
-import "./App.css";
 import "./style.css";
 
 /* npm install mathjs */
 import * as math from "mathjs";
 
-/* Images */
 import Zero from "./components/zero.png";
-
-/* Components */
 import SingleButton from "./components/SingleButton";
+
 const ZeroImg = (
  <>
   <img
